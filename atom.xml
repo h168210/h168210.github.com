@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[OEO]]></title>
+  <link href="http://h168210.github.io/atom.xml" rel="self"/>
+  <link href="http://h168210.github.io/"/>
+  <updated>2013-04-28T11:00:21+08:00</updated>
+  <id>http://h168210.github.io/</id>
+  <author>
+    <name><![CDATA[Houyh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://h168210.github.io/blog/2013/04/28/hello-world/"/>
+    <updated>2013-04-28T00:07:00+08:00</updated>
+    <id>http://h168210.github.io/blog/2013/04/28/hello-world</id>
+    <content type="html"><![CDATA[<table>
+    <tr>
+        <td>Hello World!</td>
+    </tr>
+</table>
+
+
+
+
+<p>This is my first to write the blog with git. It is totally new for me.</p>
+
+
+<p></p>
+
+<p>I hope i have time and perseverance to maintain this blog.</p>
+
+
+<p>OK! I think it is enough for a freshman. </p>
+
+]]></content>
+  </entry>
+  
+</feed>
